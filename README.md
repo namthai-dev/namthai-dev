@@ -19,8 +19,10 @@
 <a href="mailto:namthai98@outlook.com" target="_blank">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Outlook_black.png" width=50px>
 </a>
-
-
+&nbsp;
+<a href="https://namthai98.github.io/" target="_blank">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png" width=50px>
+</a>
 
 <!---
 namthai98/namthai98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
